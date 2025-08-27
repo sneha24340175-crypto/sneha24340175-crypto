@@ -35,25 +35,26 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats  
-![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-username&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=ravi-username&theme=tokyonight&hide_border=true)
+![Repos](https://img.shields.io/badge/Public%20Repos-20-blue)
+![Commits](https://img.shields.io/badge/Commits-500+-brightgreen)
+![Followers](https://img.shields.io/badge/Followers-50-orange)
+
 
 ---
 
-## 🛠️ Featured Projects  
+<!--## 🛠️ Featured Projects  
 - 📈 [Stock Price Prediction](#) – Time series forecasting with LSTMs  
 - 🤖 [ML Model Playground](#) – Compare classification algorithms with scikit-learn  
 - 📊 [Data Visualization Dashboard](#) – Interactive plots with Python + Plotly  
 - 🧠 [Deep Learning Experiments](#) – Image recognition using TensorFlow/Keras  
-
+-->
 ---
 
-## 🏆 Achievements  
+<!--## 🏆 Achievements  
 - Completed IBM Data Science Certification  
 - Built multiple ML/DL projects on real-world datasets  
 - Strong foundation in Python, SQL & Data Visualization  
-
+-->
 ---
 
 ## 🌐 Connect with Me  
