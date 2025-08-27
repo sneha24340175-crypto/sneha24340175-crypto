@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- Optional Snake Animation -->
-![GitHub Snake animation](https://github.com/ravi-username/ravi-username/blob/output/github-contribution-grid-snake.svg)
+## 🌟 Fun Touch
+💡 *"Data is the new oil, and I love refining it into insights!"* 
 
