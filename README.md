@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hi 👋, I'm Sneha  
 🔹 Data Science Enthusiast | 📊 ML Explorer | 📈 AI Learner  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;AI+Learner;Lifelong+Student+of+Data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Data+Science+Enthusiast;Java+Programmer;Machine+Learning+Explorer;AI+Learner;Lifelong+Student+of+Data)](https://git.io/typing-svg)
 
 ---
 
